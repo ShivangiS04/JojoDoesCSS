@@ -11,7 +11,7 @@
     text-decorations: line through;
 }
 
-h3+ul;{
+h3+ul {
     border: 4px dotted purple;
 }
 
