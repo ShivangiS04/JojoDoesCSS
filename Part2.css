@@ -1,0 +1,19 @@
+body{
+    background: blueviolet ;
+}
+
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: 4px;
+    border-style:double;
+}
+
+p{
+    color:aquamarine;
+}
+
+span{
+    background: pink;
+    color:blueviolet;
+}
