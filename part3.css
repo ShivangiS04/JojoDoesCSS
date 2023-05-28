@@ -1,0 +1,25 @@
+.firstDiv{
+    color:blue;
+}
+
+.secondDiv{
+    color:red;
+}
+
+#singledout{
+    color:green;
+    text-decorations: line through;
+}
+
+h3+ul;{
+    border: 4px dotted purple;
+}
+
+li a{
+    color:red;
+}
+
+li a[href="https://github.com/ShivangiS04"]{
+    color: blue;
+    border: 5px solid orange;
+}
